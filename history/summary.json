@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 176,
     "timeDay": 131,
-    "timeWeek": 174,
+    "timeWeek": 131,
     "timeMonth": 168,
     "timeYear": 176,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 731,
     "timeDay": 813,
-    "timeWeek": 853,
+    "timeWeek": 813,
     "timeMonth": 744,
     "timeYear": 731,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 300,
     "timeDay": 340,
-    "timeWeek": 384,
+    "timeWeek": 340,
     "timeMonth": 317,
     "timeYear": 300,
     "dailyMinutesDown": {}
@@ -58,19 +58,20 @@
     "url": "https://fin.a9ne.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fin.a9ne.com.ico",
     "slug": "wiki-for-family-member",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 149,
-    "timeWeek": 563,
-    "timeMonth": 800,
-    "timeYear": 898,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.84%",
+    "time": 892,
+    "timeDay": 484,
+    "timeWeek": 484,
+    "timeMonth": 803,
+    "timeYear": 892,
     "dailyMinutesDown": {
-      "2026-01-11": 0
+      "2026-01-12": 96,
+      "2026-01-11": 53
     }
   }
 ]
