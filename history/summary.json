@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 197,
+    "time": 196,
     "timeDay": 0,
-    "timeWeek": 117,
-    "timeMonth": 157,
-    "timeYear": 197,
+    "timeWeek": 153,
+    "timeMonth": 142,
+    "timeYear": 196,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
+    "time": 734,
     "timeDay": 0,
-    "timeWeek": 443,
-    "timeMonth": 661,
-    "timeYear": 738,
+    "timeWeek": 616,
+    "timeMonth": 616,
+    "timeYear": 734,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
+    "time": 271,
     "timeDay": 0,
-    "timeWeek": 229,
-    "timeMonth": 278,
-    "timeYear": 273,
+    "timeWeek": 205,
+    "timeMonth": 268,
+    "timeYear": 271,
     "dailyMinutesDown": {}
   },
   {
@@ -58,17 +58,17 @@
     "url": "https://fin.a9ne.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fin.a9ne.com.ico",
     "slug": "wiki-for-family-member",
-    "status": "up",
-    "uptime": "98.37%",
+    "status": "down",
+    "uptime": "98.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.37%",
-    "time": 916,
-    "timeDay": 0,
-    "timeWeek": 1125,
-    "timeMonth": 967,
-    "timeYear": 916,
+    "uptimeYear": "98.41%",
+    "time": 900,
+    "timeDay": 26,
+    "timeWeek": 631,
+    "timeMonth": 888,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2026-01-12": 96,
       "2026-01-11": 53,
@@ -79,7 +79,8 @@
       "2026-02-05": 98,
       "2026-02-04": 1440,
       "2026-02-03": 1440,
-      "2026-02-02": 1342
+      "2026-02-02": 1342,
+      "2026-06-05": 0
     }
   }
 ]
