@@ -58,17 +58,17 @@
     "url": "https://fin.a9ne.com/",
     "icon": "https://icons.duckduckgo.com/ip3/fin.a9ne.com.ico",
     "slug": "wiki-for-family-member",
-    "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.41%",
-    "time": 900,
-    "timeDay": 26,
-    "timeWeek": 631,
-    "timeMonth": 888,
-    "timeYear": 900,
+    "status": "up",
+    "uptime": "97.94%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "85.76%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "97.94%",
+    "time": 906,
+    "timeDay": 581,
+    "timeWeek": 799,
+    "timeMonth": 929,
+    "timeYear": 906,
     "dailyMinutesDown": {
       "2026-01-12": 96,
       "2026-01-11": 53,
@@ -80,7 +80,8 @@
       "2026-02-04": 1440,
       "2026-02-03": 1440,
       "2026-02-02": 1342,
-      "2026-06-05": 0
+      "2026-06-06": 104,
+      "2026-06-05": 1331
     }
   }
 ]
